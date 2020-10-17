@@ -8,10 +8,11 @@ languageCode = "en-us"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "violet"
-  description = "Describe your website"
+  description = "Sitio web de ama de casa entusiasta de las manualidades especialmente decoraciones en punto de cruz"
   copyright = "&copy;2020 Puntadas Creativas"
   sidebarAbout = [
-    "Soy una ama de casa que disfruta del punto de cruz"
+    "Bienvenidos a mi sitio!",
+    "Aqui encontraras diversos elementos con bordados personalizados en punto de criuz."
   ]
  
   # Nav links in the side bar
