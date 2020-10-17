@@ -11,8 +11,8 @@ languageCode = "en-us"
   description = "Sitio web de ama de casa entusiasta de las manualidades especialmente decoraciones en punto de cruz"
   copyright = "&copy;2020 Puntadas Creativas"
   sidebarAbout = [
-    "Bienvenidos a mi sitio!",
-    "Aqui encontraras diversos elementos con bordados personalizados en punto de criuz."
+    "Bienvenidos! Aqui encontraras diversos elementos con bordados personalizados en punto de cruz.",
+    "Los diseños son personalizados con la imagen que tu desees (depende si esta disponible el patron de diseño)"
   ]
  
   # Nav links in the side bar
