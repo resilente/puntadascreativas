@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://puntadascreativas.netlify.app/"
 title = "Puntadas Creativas"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
